@@ -1,7 +1,6 @@
 
 ## Speech Recognition with Deep Learning
-
-![Speech Recognition](https://github.com/yourusername/yourrepository/blob/main/images/speech_recognition.jpg)
+This project aims to transcribe spoken language into text using deep learning techniques. Leveraging the power of convolutional and recurrent neural networks, our model can accurately convert audio signals into textual representations.
 
 ### Overview
 
